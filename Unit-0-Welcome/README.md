@@ -61,12 +61,12 @@ You are encouraged to open GitHub issues/PRs and participate in Discord discussi
 
 **Deadline**: All assignments must be finished before **July 1st, 2025**.
 
-![Recommended Pace](./assets/recommended-pace.jpg)
+![Recommended Pace](../assets/recommended-pace.jpg)
 ---
 
 ## 📅 How to get the most out of the course
 
-![Best Practices](./assets/best-practise.jpg)
+![Best Practices](../assets/best-practise.jpg)
 
 - Join study groups on Discord
 - Actively do quizzes and assignments
@@ -98,7 +98,7 @@ Stay up to date with the latest course materials, updates, and announcements by 
 
 👉 Go [here](https://huggingface.co/agents-course) and click on follow.
 
-![Hugging Face Agent Course](./assets/hf_course_follow.gif)
+![Hugging Face Agent Course](../assets/hf_course_follow.gif)
 
 **Step 4: Share Learning Journey**:
 My Learning is Documented in Github Repo:

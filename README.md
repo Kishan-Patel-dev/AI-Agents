@@ -11,9 +11,7 @@ This repository contains my personal documentation and learning journey through 
 ## 📚 Course Progress
 
 ### ✅ Unit 0: Welcome to the Course
-- [x] [Welcome to the course 🤗](https://huggingface.co/learn/agents-course/en/unit0/introduction)
-- [x] [Onboarding](https://huggingface.co/learn/agents-course/en/unit0/onboarding)
-- [x] [(Optional) Discord 101](https://huggingface.co/learn/agents-course/en/unit0/discord-101)
+- [x] [Welcome to the course 🤗](https://huggingface.co/learn/agents-course/unit0/introduction) 
 - [x] [Live 1: How the course works and Q&A](https://huggingface.co/learn/agents-course/en/unit0/live-1)
 
 ### 🚀 Unit 1: Introduction to Agents (Current Unit)

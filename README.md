@@ -4,15 +4,16 @@
 This repository contains my personal documentation and learning journey through the [Hugging Face Agents Course](https://huggingface.co/learn/agents-course). I'm documenting my progress, notes, and implementations as I work through the course materials.
 
 ## 👨‍💻 About Me
-- **Kishan Patel**
-- *[GitHub](https://github.com/Kishan-Patel-dev)* || *[LinkedIn](https://www.linkedin.com/in/kishan-patel-dev)* || *[X (Twitter)](https://x.com/KishanPatel_dev)*
+
+###**Kishan Patel**
+*[GitHub](https://github.com/Kishan-Patel-dev)*    ||     *[LinkedIn](https://www.linkedin.com/in/kishan-patel-dev)*    ||    *[X (Twitter)](https://x.com/KishanPatel_dev)*
 
 
 ## 📚 Course Progress
 
 ### ✅ Unit 0: Welcome to the Course
-- [x] [Welcome to the course 🤗](https://huggingface.co/learn/agents-course/unit0/introduction) 
-- [x] [Live 1: How the course works and Q&A](https://huggingface.co/learn/agents-course/en/unit0/live-1)
+- [x] [Welcome to the course 🤗](Unit-0-Welcome/README.md) 
+- [x] [Live 1: How the course works and Q&A](https://huggingface.co/learn/agents-course/communication/live1)
 
 ### 🚀 Unit 1: Introduction to Agents (Current Unit)
 - [x] [Introduction](https://huggingface.co/learn/agents-course/en/unit1/introduction)

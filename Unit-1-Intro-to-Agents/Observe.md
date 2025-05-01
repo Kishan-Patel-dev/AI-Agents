@@ -1,7 +1,7 @@
 # 👀 Observe: Integrating Feedback to Reflect and Adapt
 
 ## 📝 Overview
-Observations are how an Agent perceives the consequences of its actions. They provide crucial information that fuels the Agent's thought process and guides future actions. These signals from the environment—whether it's data from an API, error messages, or system logs—guide the next cycle of thought.
+Observations are **how an Agent perceives the consequences of its actions**. They provide crucial information that fuels the Agent's thought process and guides future actions. These signals from the environment—whether it's data from an API, error messages, or system logs—guide the next cycle of thought.
 
 ## 🔄 The Observation Process
 

@@ -1,7 +1,7 @@
 # 🚀 Actions: Enabling the Agent to Engage with Its Environment
 
 ## 📝 Overview
-Actions are the concrete steps an AI agent takes to interact with its environment. Whether it's browsing the web for information or controlling a physical device, each action is a deliberate operation executed by the agent.
+Actions are the concrete steps an **AI agent takes to interact with its environment**. Whether it's browsing the web for information or controlling a physical device, each action is a deliberate operation executed by the agent.
 
 ## 🔄 Types of Agent Actions
 
@@ -58,6 +58,10 @@ Action: {
 
 ## 💻 Code Agents
 
+An alternative approach is using *Code Agents*. The idea is: **instead of outputting a simple JSON object**, a Code Agent generates an **executable code block—typically in a high-level language like Python.**
+
+![Code Agents](../assets/code-vs-json-actions.png)
+
 ### Advantages
 - **Expressiveness**: Natural representation of complex logic
 - **Modularity**: Reusable functions and modules
@@ -90,8 +94,7 @@ print(final_answer)
 4. Different agent types offer various advantages
 5. Code agents provide enhanced flexibility and expressiveness
 
-## 📚 Next Steps
-In the next section, we will explore Observations to see how agents capture and integrate feedback from their environment. After this, we will finally be ready to build our first Agent!
+
 
 ---
 *💡 Tip: When designing agent actions, always consider the balance between flexibility and structure. The stop and parse approach helps maintain this balance.*

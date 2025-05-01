@@ -18,7 +18,8 @@ In many Agent frameworks, **the rules and guidelines are embedded directly into 
 ## 🧠 Thought: Internal Reasoning and the ReAct Approach
 
 ### Understanding the Thought Process
-Thoughts represent the Agent's internal reasoning and planning processes to solve tasks. This utilizes the agent's Large Language Model (LLM) capacity to analyze information when presented in its prompt.
+
+Thoughts represent the **Agent's internal reasoning and planning processes** to solve tasks. This utilizes the agent's Large Language Model (LLM) capacity **to analyze information when presented in its prompt**.
 
 Think of it as the agent's internal dialogue, where it:
 - Considers the task at hand

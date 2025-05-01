@@ -48,6 +48,8 @@ Welcome to Unit 1, where I build a solid foundation in AI Agents. This unit cove
   - Building and deploying your agent
   - Publishing on Hugging Face Spaces
 
+### 5. Checkout My First Agent 
+- [First Agent](https://huggingface.co/spaces/kishan-patel-dev/First_agent_template)
 ## 🎯 Learning Objectives
 By the end of this unit, you will:
 - ✅ Understand the fundamentals of AI Agents

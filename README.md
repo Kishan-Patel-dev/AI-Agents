@@ -3,6 +3,8 @@
 ## 🎯 Course Overview
 This repository contains my personal documentation and learning journey through the [Hugging Face Agents Course](https://huggingface.co/learn/agents-course). I'm documenting my progress, notes, and implementations as I work through the course materials.
 
+![Hugging Face](https://huggingface.co/agents-course)
+
 ## 👨‍💻 About Me
 
 ###**Kishan Patel**
@@ -27,6 +29,7 @@ This repository contains my personal documentation and learning journey through 
   - [x] [Observe: Integrating Feedback to Reflect and Adapt](Unit-1-Intro-to-Agents/Observe.md)
 - [x] [Dummy Agent Library](Unit-1-Intro-to-Agents/Dummy-Agent-LIbrary.md)
 - [x] [Let's Create Our First Agent Using smolagents](Unit-1-Intro-to-Agents/Agent.md)
+- [x] [Checkout My First Agent](https://huggingface.co/spaces/kishan-patel-dev/First_agent_template)
 
 ### 📋 Upcoming Units
 - [Unit 2: Frameworks for AI Agents](https://huggingface.co/learn/agents-course/en/unit2/introduction)

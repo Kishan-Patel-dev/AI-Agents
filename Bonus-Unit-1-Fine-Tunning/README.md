@@ -154,4 +154,3 @@ pip install torch transformers peft trl
 - [x] Fine-tune using Hugging Face tools
 - [x] Complete the hands-on notebook
 ```
-```

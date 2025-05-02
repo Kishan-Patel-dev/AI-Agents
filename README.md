@@ -5,17 +5,18 @@ This repository contains my personal documentation and learning journey through 
 
 ![Hugging Face](https://huggingface.co/agents-course)
 
-👨‍💻 About Me
-Kishan Patel — Ideas to **REALITY** | OSS Contributor | GSoC’25 Aspirant
-🚀 Passionate about turning ideas into impactful software, automating workflows, and driving innovation in open-source communities.
+## 👨‍💻 About Me
+**KISHAN PATEL** — Ideas to **REALITY** | OSS Contributor | GSoC’25 Aspirant
 
-💡 Currently building **AI Agents** and **Generative AI Projects** with a focus on real-world usability and scalability.
+- 🚀 Passionate about turning ideas into impactful software, automating workflows, and driving innovation in open-source communities.
 
-🧠 Exploring the frontier of **Generative AI**, **Autonomous Agents**, and **LLM-driven systems**, while sharpening my expertise in **full-stack web development** — from pixel-perfect UIs to resilient backend APIs.
+- 💡 Currently building **AI Agents** and **Generative AI Projects** with a focus on real-world usability and scalability.
 
-🤝 Active contributor to [Rocket.Chat](https://github.com/rocketChat/) and [Openlit](https://github.com/openlit/), with a commitment to collaborative problem-solving and continuous learning.
+- 🧠 Exploring the frontier of **Generative AI**, **Autonomous Agents**, and **LLM-driven systems**, while sharpening my expertise in **full-stack web development** — from pixel-perfect UIs to resilient backend APIs.
 
-🧰 Favorite tools & tech: TypeScript, Node.js, MongoDB, Express, LLMs, and LangGraph frameworks.
+- 🤝 Active contributor to [Rocket.Chat](https://github.com/rocketChat/) and [Openlit](https://github.com/openlit/), with a commitment to collaborative problem-solving and continuous learning.
+
+- 🧰 Favorite tools & tech: TypeScript, Node.js, MongoDB, Express, LLMs, and LangGraph frameworks.
 
 🌐 Let’s connect:
 

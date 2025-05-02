@@ -1,6 +1,6 @@
 # 🤖 Unit 1: Introduction to Agents
 
-![Unit 1 Thumbnail](./assets/unit-1-thumbnail.jpg)
+![Unit 1 Thumbnail](../assets/unit-1-thumbnail.jpg)
 
 Welcome to Unit 1, where I build a solid foundation in AI Agents. This unit covers everything from basic concepts to building your first agent!
 
@@ -58,16 +58,10 @@ By the end of this unit, you will:
 - ✅ Build and deploy your first agent
 - ✅ Earn your Certificate of Fundamentals of Agents
 
-## 🏆 Certification
+## 🏆 Certification: Fundamentals of Agents 
 Complete the unit and pass the final quiz to earn your:
 ![Certificate of Fundamentals of Agents](./Ai%20agent%20certificate.jpg)
 
-## 🚀 Getting Started
-1. Begin with "What is an Agent?"
-2. Progress through each section in order
-3. Complete the quizzes to test your knowledge
-4. Build your first agent using smolagents
-5. Take the final quiz to earn your certificate
 
 ## 📝 Unit Structure
 ```
@@ -90,8 +84,3 @@ Unit 1: Introduction to Agents
 │   └── smolagents Implementation
 └── Unit 1 Final Quiz
 ```
-
-## Certificate: Fundamentals of Agents 
-![Fundamentals of Agents](./Ai%20agent%20certificate.jpg)
-
----

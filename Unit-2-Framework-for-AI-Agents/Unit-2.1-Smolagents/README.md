@@ -11,24 +11,28 @@ Smolagents is Hugging Face's lightweight agent framework designed to make buildi
 ### 1. Introduction to Smolagents
 - [x] [Introduction to Smolagents](./Intro-to-Smolagents.md)
 - [x] [Why Use Smolagents?](./Why-use-smolagents.md)
+- [x] [Hands-on Introduction](./code_agents.ipynb)
 
 ### 2. Building Agents with Code
 - [x] [Building Agents That Use Code](./Building-Agents-use-Code.md)
 - [x] [Writing Actions as Code or JSON](./Actions-as-Code-or-JSON.md)
-- [x] [Tools](./Tools.md)
-- [x] [Tools Implementation](./tools.ipynb)
+- [x] [Tool Calling Agents](./tool_calling_agents.ipynb)
 
-### 3. Advanced Agent Types
+### 3. Tools and Actions
+- [x] [Understanding Tools](./Tools.md)
+- [x] [Working with Tools](./tools.ipynb)
+
+### 4. Advanced Agent Types
 - [x] [Retrieval Agents](./Building-Agent-RAG-Systems.md)
 - [x] [Retrieval Implementation](./retrieval_agents.ipynb)
 
-### 4. Complex Systems
+### 5. Complex Systems
 - [x] [Multi-Agent Systems](./Multi-Agent-System.md)
 - [x] [Multi-Agent Implementation](./multiagent_notebook.ipynb)
 - [x] [Vision and Browser Agents](./Vision-Agents.md)
 - [x] [Vision Agents Implementation](./vision_agents.ipynb)
 
-### 5. Assessment
+### 6. Assessment
 - [x] [Final Quiz](https://huggingface.co/spaces/agents-course/unit2_smolagents_quiz)
 
 ## 🎯 Learning Objectives
@@ -37,10 +41,11 @@ By the end of this unit, you will:
 
 - ✅ Understand the smolagents framework and its benefits
 - ✅ Build agents using code and JSON
-- ✅ Implement and use tools effectively
-- ✅ Create retrieval-based agents
-- ✅ Build multi-agent systems
-- ✅ Implement vision and browser agents
+- ✅ Implement tool-calling functionality
+- ✅ Create and use custom tools
+- ✅ Build retrieval-based agents
+- ✅ Implement multi-agent systems
+- ✅ Create vision and browser agents
 - ✅ Complete the final assessment
 
 ## 🛠️ Key Concepts
@@ -81,8 +86,10 @@ By the end of this unit, you will:
 |------|-------------|------|
 | [Intro-to-Smolagents.md](./Intro-to-Smolagents.md) | Framework overview | Documentation |
 | [Why-use-smolagents.md](./Why-use-smolagents.md) | Framework benefits | Documentation |
+| [code_agents.ipynb](./code_agents.ipynb) | Introduction to building agents | Notebook |
 | [Building-Agents-use-Code.md](./Building-Agents-use-Code.md) | Agent creation guide | Documentation |
 | [Actions-as-Code-or-JSON.md](./Actions-as-Code-or-JSON.md) | Action formatting guide | Documentation |
+| [tool_calling_agents.ipynb](./tool_calling_agents.ipynb) | Tool calling implementation | Notebook |
 | [Tools.md](./Tools.md) | Tools documentation | Documentation |
 | [tools.ipynb](./tools.ipynb) | Tools implementation | Notebook |
 | [Building-Agent-RAG-Systems.md](./Building-Agent-RAG-Systems.md) | RAG systems guide | Documentation |
@@ -102,17 +109,18 @@ By the end of this unit, you will:
 
 ## 📝 Notes
 
-- Follow the course structure sequentially
+- Start with the introduction notebook
+- Follow the sequence of implementation files
 - Practice with provided examples
-- Review documentation thoroughly
 - Complete the final quiz to assess your understanding
 
 ## ✅ Progress Checklist
 
 ```markdown
-- [x] Complete Introduction
+- [x] Complete Introduction and Basics
 - [x] Build agents with code
-- [x] Implement tools
+- [x] Implement tool calling
+- [x] Work with tools
 - [x] Create retrieval agents
 - [x] Build multi-agent systems
 - [x] Implement vision agents

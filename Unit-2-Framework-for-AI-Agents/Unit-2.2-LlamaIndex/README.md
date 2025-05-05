@@ -11,7 +11,6 @@ LlamaIndex is a powerful framework for building AI agents and applications, prov
 ### 1. Introduction to LlamaIndex
 - [x] [Introduction to LlamaIndex](./Intro-to-LlamaIndex.md)
 - [x] [Introduction to LlamaHub](./Intro-to-LlamaIndex.md#llamahub)
-- [x] [Hands-on Introduction](./components.ipynb)
 
 ### 2. Components in LlamaIndex
 - [x] [Understanding Components](./Components-in-LlamaIndex.md)

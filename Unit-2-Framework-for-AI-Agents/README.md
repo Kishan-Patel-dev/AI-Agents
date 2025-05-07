@@ -1,4 +1,4 @@
-# 🧠 Unit 2: Introduction to Agentic Frameworks
+# 🧠 Unit 2: Frameworks for AI Agents
 
 This unit focuses on **agentic frameworks** - tools designed to help you build more flexible and powerful applications powered by LLMs.
 
@@ -9,30 +9,38 @@ This unit focuses on **agentic frameworks** - tools designed to help you build m
 ### ✅ Completed Units
 - [x] [Unit 0: Welcome to the Course](../Unit-0-Welcome/README.md)
 - [x] [Unit 1: Introduction to Agents](../Unit-1-Intro-to-Agents/README.md)
-
-### 🚀 Current Unit: Unit 2 - Framework for AI Agents
-- [ ] Unit 2.1: [smolagents](./Unit-2.1-Smolagents/README.md) – Hugging Face's lightweight agent framework
-- [ ] Unit 2.2: [LlamaIndex](./Unit-2.2-LlamaIndex/README.md) – Context-augmented agent system
-- [ ] Unit 2.3: [LangGraph](./Unit-2.3-LangGraph/README.md) – Stateful agent workflows
+- [x] Unit 2.1: [smolagents](./Unit-2.1-Smolagents/README.md) – Hugging Face's lightweight agent framework
+- [x] Unit 2.2: [LlamaIndex](./Unit-2.2-LlamaIndex/README.md) – Context-augmented agent system
+- [x] Unit 2.3: [LangGraph](./Unit-2.3-LangGraph/README.md) – Stateful agent workflows
 
 ## 📌 Units Breakdown
 
 ### Unit 2.1: **smolagents**
-- Lightweight and flexible
-- Easy integration with Hugging Face
-- Perfect for beginners
+- Introduction to smolagents
+- Why use smolagents?
+- Building Agents That Use Code
+- Writing actions as code snippets or JSON blobs
+- Tools and utilities
+- Retrieval Agents
+- Multi-Agent Systems
+- Vision and Browser agents
 - [Start Learning →](./Unit-2.1-Smolagents/README.md)
 
 ### Unit 2.2: **LlamaIndex**
-- Production-ready tools
-- Advanced context management
-- Robust data handling
+- Introduction to LlamaIndex
+- Introduction to LlamaHub
+- Components in LlamaIndex
+- Using Tools in LlamaIndex
+- Using Agents in LlamaIndex
+- Creating Agentic Workflows
 - [Start Learning →](./Unit-2.2-LlamaIndex/README.md)
 
 ### Unit 2.3: **LangGraph**
-- Stateful workflows
-- Complex agent interactions
-- Advanced orchestration
+- Introduction to LangGraph
+- What is LangGraph?
+- Building Blocks of LangGraph
+- Building Your First LangGraph
+- Document Analysis Graph
 - [Start Learning →](./Unit-2.3-LangGraph/README.md)
 
 ## 🤖 When to Use an Agentic Framework
@@ -67,15 +75,14 @@ To build robust agentic apps, you need:
 - **Error Handling** – Retries, logs, and corrections for failed calls
 </details>
 
-## 🎯 Learning Objectives
+## 🎯 Learning
 
-By the end of this unit, you will:
-
-- [ ] Understand different agentic frameworks
-- [ ] Implement agents using smolagents
-- [ ] Build context-aware systems with LlamaIndex
-- [ ] Create stateful workflows with LangGraph
-- [ ] Choose the right framework for your needs
+- [x] Understand different agentic frameworks and their use cases
+- [x] Build agents using smolagents for lightweight applications
+- [x] Create context-aware systems with LlamaIndex
+- [x] Implement stateful workflows with LangGraph
+- [x] Choose the right framework for your specific needs
+- [x] Combine multiple frameworks for complex applications
 
 ## 📚 Additional Resources
 
@@ -83,24 +90,13 @@ By the end of this unit, you will:
 - [smolagents Documentation](https://github.com/smol-ai/smolagents)
 - [LlamaIndex Documentation](https://docs.llamaindex.ai/)
 - [LangGraph Documentation](https://python.langchain.com/docs/langgraph)
-
+- [LangChain Academy](https://academy.langchain.com/)
 
 ## 📝 Notes
 
-- Each framework has its strengths
-- Start with smolagents for basics
-- Progress to more complex frameworks
-- Practice with provided examples
-
----
-
-### ✅ Progress Checklist
-
-```markdown
-- [X] Complete smolagents section
-- [ ] Complete LlamaIndex section
-- [ ] Complete LangGraph section
-- [ ] Build example projects
-- [ ] Take unit quiz
-```
-
+- Each framework has its unique strengths and use cases
+- Start with smolagents for basic agent development
+- Progress to LlamaIndex for context-aware applications
+- Use LangGraph for complex, stateful workflows
+- Practice with provided examples in each framework
+- Consider combining frameworks for advanced applications

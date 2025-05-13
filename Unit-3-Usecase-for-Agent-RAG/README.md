@@ -1,6 +1,6 @@
 # 🧠 Unit 3: Use Cases for Agent RAG
 
-This unit focuses on **Retrieval-Augmented Generation (RAG)** - a powerful technique that combines the capabilities of LLMs with custom knowledge bases to create more informed and contextually aware AI agents.
+This unit focuses on **Agentic RAG system** Retrieval-Augmented Generation (RAG) - a powerful technique that combines the capabilities of LLMs with custom knowledge bases to create more informed and contextually aware AI agents.
 
 ![Agent RAG](../assets/thumbnail3.jpg)
 
@@ -58,6 +58,7 @@ Use RAG when:
 - You have **custom datasets** that need to be accessed
 - You require **real-time information retrieval**
 - You want to **maintain up-to-date information**
+- You have **Memory of past interaction**.
 
 Skip it when:
 - Your use case only requires general knowledge

@@ -32,6 +32,9 @@ This repository contains my personal documentation and learning journey through 
 - [x] [Unit 2: Frameworks for AI Agents](Unit-2-Framework-for-AI-Agents/README.md)
 - [x] [Unit 3: Use Cases for Agent RAG](Unit-3-Usecase-for-Agent-RAG/README.md)
 - [x] [Unit 4: Final Project](Unit-4-Final-Project/README.md)
+- [x] [Bonus Unit 1: Fine-Tuning an LLM for Function-Calling](Bonus-Unit-1-Fine-Tunning/README.md)
+- [x] [Bonus Unit 2: Agent Observability and Evaluation](Bonus-Unit-2-Agent-Observability-Evaluation/README.md)
+- [x] [Bonus Unit 3: Agents in Games with Pokemon](Bonus-Unit-3-Agents-in-Games/README.md)
 
 ### 🏆 Final Project
 Check out my successful implementation:
@@ -39,28 +42,49 @@ Check out my successful implementation:
 
 ## 📝 Unit Structure
 
-### Unit 1: Introduction to Agents
-- [x] What is an Agent?
-- [x] Understanding LLMs
-- [x] Agent Workflow
-- [x] Building Your First Agent
+### [Unit 1: Introduction to Agents](Unit-1-Intro-to-Agents/README.md)
+- [x] [What is an Agent?](Unit-1-Intro-to-Agents/What-is-an-Agent?.md)
+- [x] [Understanding LLMs](Unit-1-Intro-to-Agents/What-are-LLMs?.md)
+- [x] [Messages and Special Token](Unit-1-Intro-to-Agents/Messages-and-Special-Tokens.md)
+- [x] [Tools](Unit-1-Intro-to-Agents/What-are-Tools?.md)
+- [x] [Agent Workflow](Unit-1-Intro-to-Agents/AI-Agent-Workflow.md)
+- [x] [Agent Thought](Unit-1-Intro-to-Agents/AI-Agent-Workflow.md)
+- [x] [Agent Action](Unit-1-Intro-to-Agents/Actions.md)
+- [x] [Agent Observation](Unit-1-Intro-to-Agents/Observe.md)
+- [x] [Agent Framework](Unit-1-Intro-to-Agents/Dummy-Agent-LIbrary.md)
+- [x] [Building Your First Agent](Unit-1-Intro-to-Agents/Agent.md)
 
-### Unit 2: Frameworks for AI Agents
-- [x] smolagents Framework
-- [x] LlamaIndex Framework
-- [x] LangGraph Framework
+### [Unit 2: Frameworks for AI Agents](Unit-2-Framework-for-AI-Agents/README.md)
+- [x] [smolagents Framework](Unit-2-Framework-for-AI-Agents/Unit-2.1-Smolagents/README.md)
+- [x] [LlamaIndex Framework](Unit-2-Framework-for-AI-Agents/Unit-2.2-LlamaIndex/README.md)
+- [x] [LangGraph Framework](Unit-2-Framework-for-AI-Agents/Unit-2.3-LangGraph/README.md)
 
-### Unit 3: Use Cases for Agent RAG
-- [x] Creating RAG Tool
-- [x] Building and Integrating Tools
-- [x] Creating Gala Agent
-- [x] Agentic RAG
+### [Unit 3: Use Cases for Agent RAG](Unit-3-Usecase-for-Agent-RAG/README.md)
+- [x] [Creating RAG Tool](Unit-3-Usecase-for-Agent-RAG/Creating-RAG-Tool.md)
+- [x] [Building and Integrating Tools](Unit-3-Usecase-for-Agent-RAG/Building-and-Integrating-Tools-for-Agent.md)
+- [x] [Creating Gala Agent](Unit-3-Usecase-for-Agent-RAG/Creating-Gala-Agent.md)
+- [x] [Agentic RAG](Unit-3-Usecase-for-Agent-RAG/Agentic-RAG.md)
 
-### Unit 4: Final Project
-- [x] Understanding GAIA
-- [x] Building Final Agent
-- [x] Project Submission
-- [x] Course Conclusion
+### [Unit 4: Final Project](Unit-4-Final-Project/README.md)
+- [x] [Understanding GAIA](Unit-4-Final-Project/What%20is%20GAIA?.md)
+- [x] [Building Final Agent](Unit-4-Final-Project/Final-Hands-On.md)
+- [x] [Project Submission](Unit-4-Final-Project/Final-Hands-On.md)
+- [x] [Course Conclusion](Unit-4-Final-Project/Conclustion.md)
+
+### [Bonus Unit 1: Fine-Tuning LLMs for Functional-Calling](Bonus-Unit-1-Fine-Tunning/README.md)
+- [x] [Functional Calling](Bonus-Unit-1-Fine-Tunning/Function-Calling.md)
+- [x] [Fine-Tuning LLMs for Functional Calling](Bonus-Unit-1-Fine-Tunning/Fine-Tune-for-Function-Calling.md)
+
+### [Bonus Unit 2: Agent Observability and Evaluation](Bonus-Unit-2-Agent-Observability-Evaluation/README.md)
+- [x] [Agent Observability and Evaluation](Bonus-Unit-2-Agent-Observability-Evaluation/AI-Agent-Observability-&-Evaluation.md)
+- [x] [Monitoring and Evaluating Agent ](Bonus-Unit-2-Agent-Observability-Evaluation/Obervability-&-Evaluation-of-Agents.md)
+
+### [Bonus Unit 3: Agents in Game](Bonus-Unit-3-Agents-in-Games/README.md)
+- [x] [AI Agents in Games with Pokemon](Bonus-Unit-3-Agents-in-Games/Intro-&-LLMs-in-Games.md)
+- [x] [State of the Art in Using LLMs in Game](Bonus-Unit-3-Agents-in-Games/Intro-&-LLMs-in-Games.md)
+- [x] [LLMs to AI Agents](Bonus-Unit-3-Agents-in-Games/LLMs-to-AI-Agents.md)
+- [x] [Pokemon Battle Agent](Bonus-Unit-3-Agents-in-Games/Pokemon-Battle-Agent.md)
+- [x] [Launching Game Agent](Bonus-Unit-3-Agents-in-Games/Launching-Pokemon-Agent.md)
 
 ## 🎓 Certificate
 

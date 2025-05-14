@@ -6,7 +6,7 @@ This repository contains my personal documentation and learning journey through 
 ![Hugging Face](https://huggingface.co/agents-course)
 
 ## 👨‍💻 About Me
-**KISHAN PATEL** — Ideas to **REALITY** | OSS Contributor | GSoC’25 Aspirant
+**KISHAN PATEL** — Ideas to **REALITY** | OSS Contributor | GSoC'25 Aspirant
 
 - 🚀 Passionate about turning ideas into impactful software, automating workflows, and driving innovation in open-source communities.
 
@@ -18,7 +18,7 @@ This repository contains my personal documentation and learning journey through 
 
 - 🧰 Favorite tools & tech: TypeScript, Node.js, MongoDB, Express, LLMs, and LangGraph frameworks.
 
-🌐 Let’s connect:
+🌐 Let's connect:
 
 *[GitHub](https://github.com/Kishan-Patel-dev)*    ||     *[LinkedIn](https://www.linkedin.com/in/kishan-patel-dev)*    ||    *[X (Twitter)](https://x.com/KishanPatel_dev)*
 
@@ -26,75 +26,68 @@ This repository contains my personal documentation and learning journey through 
 
 ## 📚 Course Progress
 
-### ✅ Unit 0: Welcome to the Course
-- [x] [Welcome to the course 🤗](Unit-0-Welcome/README.md) 
-- [x] [Live 1: How the course works and Q&A](https://huggingface.co/learn/agents-course/communication/live1)
+### ✅ Completed Units
+- [x] [Unit 0: Welcome to the Course](Unit-0-Welcome/README.md)
+- [x] [Unit 1: Introduction to Agents](Unit-1-Intro-to-Agents/README.md)
+- [x] [Unit 2: Frameworks for AI Agents](Unit-2-Framework-for-AI-Agents/README.md)
+- [x] [Unit 3: Use Cases for Agent RAG](Unit-3-Usecase-for-Agent-RAG/README.md)
+- [x] [Unit 4: Final Project](Unit-4-Final-Project/README.md)
 
-### 🚀 Unit 1: Introduction to Agents (Current Unit)
-- [x] [Introduction](Unit-1-Intro-to-Agents/What-is-an-Agent?.md)
-- [x] [What is an Agent?](Unit-1-Intro-to-Agents/What-is-an-Agent?.md)
-- [x] [What are LLMs?](Unit-1-Intro-to-Agents/What-are-LLMs?.md)
-- [x] [Messages and Special Tokens](Unit-1-Intro-to-Agents/Messages-and-Special-Tokens.md)
-- [x] [What are Tools?](Unit-1-Intro-to-Agents/What-are-Tools?.md)
-- [x] [Understanding AI Agents through the Thought-Action-Observation Cycle](Unit-1-Intro-to-Agents/AI-Agent-Workflow.md)
-  - [x] [Thought: Internal Reasoning and the ReAct Approach](Unit-1-Intro-to-Agents/AI-Agent-Workflow.md)
-  - [x] [Actions: Enabling the Agent to Engage with Its Environment](Unit-1-Intro-to-Agents/Actions.md)
-  - [x] [Observe: Integrating Feedback to Reflect and Adapt](Unit-1-Intro-to-Agents/Observe.md)
-- [x] [Dummy Agent Library](Unit-1-Intro-to-Agents/Dummy-Agent-LIbrary.md)
-- [x] [Let's Create Our First Agent Using smolagents](Unit-1-Intro-to-Agents/Agent.md)
-- [x] [Checkout My First Agent](https://huggingface.co/spaces/kishan-patel-dev/First_agent_template)
-
-### 📋 Upcoming Units
-- [Unit 2: Frameworks for AI Agents](https://huggingface.co/learn/agents-course/en/unit2/introduction)
-  - [Unit 2.1: The smolagents framework](https://huggingface.co/learn/agents-course/en/unit2/smolagents/introduction)
-  - [Unit 2.2: The LlamaIndex framework](https://huggingface.co/learn/agents-course/en/unit2/llama-index/introduction)
-  - [Unit 2.3: The LangGraph framework](https://huggingface.co/learn/agents-course/en/unit2/langgraph/introduction)
-- [Unit 3: Use Case for Agentic RAG](https://huggingface.co/learn/agents-course/en/unit3/introduction)
-- [Unit 4: Final Project](https://huggingface.co/learn/agents-course/en/unit4/introduction)
-- Bonus Units:
-  - [Fine-tuning an LLM for Function-calling](https://huggingface.co/learn/agents-course/en/bonus-unit1/introduction)
-  - [Agent Observability and Evaluation](https://huggingface.co/learn/agents-course/en/bonus-unit2/introduction)
-  - [Agents in Games with Pokemon](https://huggingface.co/learn/agents-course/en/bonus-unit3/introduction)
+### 🏆 Final Project
+Check out my successful implementation:
+[RobotPai - AI Agent](https://huggingface.co/spaces/kishan-patel-dev/RobotPai/tree/main)
 
 ## 📝 Unit Structure
-```
-Unit 1: Introduction to Agents
-├── Introduction
-│   ├── What is an Agent?
-│   └── Quick Quiz 1
-├── Understanding LLMs
-│   ├── What are LLMs?
-│   ├── Messages and Special Tokens
-│   ├── What are Tools?
-│   └── Quick Quiz 2
-├── Agent Workflow
-│   ├── Thought-Action-Observation Cycle
-│   ├── Thought and ReAct Approach
-│   ├── Actions and Environment
-│   └── Observation and Adaptation
-├── Building Your First Agent
-│   ├── Dummy Agent Library
-│   └── smolagents Implementation
-└── Unit 1 Final Quiz
-```
 
+### Unit 1: Introduction to Agents
+- [x] What is an Agent?
+- [x] Understanding LLMs
+- [x] Agent Workflow
+- [x] Building Your First Agent
+
+### Unit 2: Frameworks for AI Agents
+- [x] smolagents Framework
+- [x] LlamaIndex Framework
+- [x] LangGraph Framework
+
+### Unit 3: Use Cases for Agent RAG
+- [x] Creating RAG Tool
+- [x] Building and Integrating Tools
+- [x] Creating Gala Agent
+- [x] Agentic RAG
+
+### Unit 4: Final Project
+- [x] Understanding GAIA
+- [x] Building Final Agent
+- [x] Project Submission
+- [x] Course Conclusion
+
+## 🎓 Certificate
+
+Complete the course and pass the final project to earn your certificate!
+![Certificate of Fundamentals of Agents](./Unit-1-Intro-to-Agents/Ai%20agent%20certificate.jpg)
+
+If you scored **above 30%**, congratulations — you're eligible to claim your **official certificate** of completion! 🏅
+
+👉 I proudly earned mine with a 🏆 top-tier score **above 90%** !
+
+![Certificate of Excellence](image%20(2).webp)
+
+📄 [**View Certificate PDF**](certificate.pdf)
 
 ## 🔍 Additional Resources
 
 ### 📚 Recommended Reading
 - [The ReAct Paper](https://arxiv.org/abs/2210.03629)
 - [smolagents Documentation](https://github.com/smol-ai/smolagents)
+- [LlamaIndex Documentation](https://docs.llamaindex.ai/)
+- [LangGraph Documentation](https://python.langchain.com/docs/langgraph)
 - [Hugging Face Spaces Guide](https://huggingface.co/docs/hub/spaces)
 
 ### 🛠️ Useful Tools
 - [Hugging Face Hub](https://huggingface.co/)
 - [Gradio](https://gradio.app/)
 - [Python Documentation](https://docs.python.org/3/)
-
-
-## 🏆 Certification
-Complete the unit and pass the final quiz to earn your:
-![Certificate of Fundamentals of Agents](./Unit-1-Intro-to-Agents/Ai%20agent%20certificate.jpg)
 
 ## 📝 About This Repository
 This repository serves as my personal documentation of the [Hugging Face Agents Course](https://huggingface.co/learn/agents-course). Here, I:
@@ -103,5 +96,13 @@ This repository serves as my personal documentation of the [Hugging Face Agents 
 - Track my progress
 - Store my notes and resources
 
-
 ---
+
+## 🚀 Next Steps
+- Continue exploring AI Agents and their applications
+- Contribute to open-source AI projects
+- Build more sophisticated agents
+- Share knowledge with the community
+
+Feel free to explore my implementations and learn from my journey! 🌟
+

@@ -3,24 +3,7 @@
 ## 🎯 Course Overview
 This repository contains my personal documentation and learning journey through the [Hugging Face Agents Course](https://huggingface.co/learn/agents-course). I'm documenting my progress, notes, and implementations as I work through the course materials.
 
-![Hugging Face](https://huggingface.co/agents-course)
-
-## 👨‍💻 About Me
-**KISHAN PATEL** — Ideas to **REALITY** | OSS Contributor | GSoC'25 Aspirant
-
-- 🚀 Passionate about turning ideas into impactful software, automating workflows, and driving innovation in open-source communities.
-
-- 💡 Currently building **AI Agents** and **Generative AI Projects** with a focus on real-world usability and scalability.
-
-- 🧠 Exploring the frontier of **Generative AI**, **Autonomous Agents**, and **LLM-driven systems**, while sharpening my expertise in **full-stack web development** — from pixel-perfect UIs to resilient backend APIs.
-
-- 🤝 Active contributor to [Rocket.Chat](https://github.com/rocketChat/) and [Openlit](https://github.com/openlit/), with a commitment to collaborative problem-solving and continuous learning.
-
-- 🧰 Favorite tools & tech: TypeScript, Node.js, MongoDB, Express, LLMs, and LangGraph frameworks.
-
-🌐 Let's connect:
-
-*[GitHub](https://github.com/Kishan-Patel-dev)*    ||     *[LinkedIn](https://www.linkedin.com/in/kishan-patel-dev)*    ||    *[X (Twitter)](https://x.com/KishanPatel_dev)*
+![Hugging Face](./assets/unit-1-thumbnail.jpg)
 
 ---
 
@@ -36,9 +19,6 @@ This repository contains my personal documentation and learning journey through 
 - [x] [Bonus Unit 2: Agent Observability and Evaluation](Bonus-Unit-2-Agent-Observability-Evaluation/README.md)
 - [x] [Bonus Unit 3: Agents in Games with Pokemon](Bonus-Unit-3-Agents-in-Games/README.md)
 
-### 🏆 Final Project
-Check out my successful implementation:
-[RobotPai - AI Agent](https://huggingface.co/spaces/kishan-patel-dev/RobotPai/tree/main)
 
 ## 📝 Unit Structure
 
@@ -86,6 +66,14 @@ Check out my successful implementation:
 - [x] [Pokemon Battle Agent](Bonus-Unit-3-Agents-in-Games/Pokemon-Battle-Agent.md)
 - [x] [Launching Game Agent](Bonus-Unit-3-Agents-in-Games/Launching-Pokemon-Agent.md)
 
+---
+
+### 🏆 Final Project
+Check out my successful implementation:
+[RobotPai - AI Agent](https://huggingface.co/spaces/kishan-patel-dev/RobotPai/tree/main)
+
+---
+
 ## 🎓 Certificate
 
 Complete the course and pass the final project to earn your certificate!
@@ -99,9 +87,12 @@ If you scored **above 30%**, congratulations — you're eligible to claim your *
 
 📄 [**View Certificate PDF**](certificate.pdf)
 
+--- 
+
 ## 🔍 Additional Resources
 
 ### 📚 Recommended Reading
+- [Hugging Face Agent Course](https://huggingface.co/learn/agents-course/)
 - [The ReAct Paper](https://arxiv.org/abs/2210.03629)
 - [smolagents Documentation](https://github.com/smol-ai/smolagents)
 - [LlamaIndex Documentation](https://docs.llamaindex.ai/)
@@ -122,6 +113,25 @@ This repository serves as my personal documentation of the [Hugging Face Agents 
 
 ---
 
+## 👨‍💻 About Me
+**KISHAN PATEL** — Ideas to **REALITY** | OSS Contributor | GSoC'25 Aspirant
+
+- 🚀 Passionate about turning ideas into impactful software, automating workflows, and driving innovation in open-source communities.
+
+- 💡 Currently building **AI Agents** and **Generative AI Projects** with a focus on real-world usability and scalability.
+
+- 🧠 Exploring the frontier of **Generative AI**, **Autonomous Agents**, and **LLM-driven systems**, while sharpening my expertise in **full-stack web development** — from pixel-perfect UIs to resilient backend APIs.
+
+- 🤝 Active contributor to [Rocket.Chat](https://github.com/rocketChat/) and [Openlit](https://github.com/openlit/), with a commitment to collaborative problem-solving and continuous learning.
+
+- 🧰 Favorite tools & tech: TypeScript, Node.js, MongoDB, Express, LLMs, and LangGraph frameworks.
+
+🌐 Let's connect:
+
+*[GitHub](https://github.com/Kishan-Patel-dev)*    ||     *[LinkedIn](https://www.linkedin.com/in/kishan-patel-dev)*    ||    *[X (Twitter)](https://x.com/KishanPatel_dev)*
+
+---
+
 ## 🚀 Next Steps
 - Continue exploring AI Agents and their applications
 - Contribute to open-source AI projects
@@ -129,4 +139,3 @@ This repository serves as my personal documentation of the [Hugging Face Agents 
 - Share knowledge with the community
 
 Feel free to explore my implementations and learn from my journey! 🌟
-

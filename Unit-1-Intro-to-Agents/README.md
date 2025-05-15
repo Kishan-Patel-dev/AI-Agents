@@ -6,50 +6,18 @@ Welcome to Unit 1, where I build a solid foundation in AI Agents. This unit cove
 
 ## 📚 Learning Path
 
-### 1. Introduction to Agents
-- [What is an Agent?](./What-is-an-Agent?.md)
-  - Understanding agent fundamentals
-  - How agents make decisions
-  - Agent capabilities and limitations
-- Quick Quiz 1: Test your understanding
+### ✅ Completed Topics
+- [x] [What is an Agent?](./What-is-an-Agent?.md)
+- [x] [What are LLMs?](./What-are-LLMs?.md)
+- [x] [Messages and Special Tokens](./Messages-and-Special-Tokens.md)
+- [x] [What are Tools?](./What-are-Tools?.md)
+- [x] [Agent Workflow](./AI-Agent-Workflow.md)
+- [x] [Agent Thought](./AI-Agent-Workflow.md)
+- [x] [Agent Action](./Actions.md)
+- [x] [Agent Observation](./Observe.md)
+- [x] [Dummy Agent Library](./Dummy-Agent-LIbrary.md)
+- [x] [Building Your First Agent](./Agent.md)
 
-### 2. Understanding LLMs
-- [What are LLMs?](./What-are-LLMs?.md)
-  - The role of language models in agents
-  - How LLMs power agent reasoning
-- [Messages and Special Tokens](./Messages-and-Special-Tokens.md)
-  - Understanding message structure
-  - Special token usage
-
-### 3. Tools
-- [What are Tools?](./What-are-Tools?.md)
-  - Tool integration in agents
-  - Building custom tools
-- Quick Quiz 2: LLM and Tools knowledge check
-
-### 4. The Agent Workflow
-- [Understanding AI Agents through the Thought-Action-Observation Cycle](./AI-Agent-Workflow.md)
-  - [Thought: Internal Reasoning and the ReAct Approach](./AI-Agent-Workflow.md)
-    - Understanding agent reasoning
-    - The ReAct methodology
-  - [Actions: Enabling the Agent to Engage with Its Environment](./Actions.md)
-    - Tool execution
-    - Action implementation
-  - [Observe: Integrating Feedback to Reflect and Adapt](./Observe.md)
-    - Processing observations
-    - Adapting to feedback
-
-### 4. Building Your First Agent
-- [Dummy Agent Library](./Dummy-Agent-LIbrary.md)
-  - Understanding the framework
-  - Basic implementation
-- [Creating Your First Agent with smolagents](./Agent.md)
-  - Setting up the environment
-  - Building and deploying your agent
-  - Publishing on Hugging Face Spaces
-
-### 5. Checkout My First Agent 
-- [First Agent](https://huggingface.co/spaces/kishan-patel-dev/First_agent_template)
 ## 🎯 Learning Objectives
 By the end of this unit, you will:
 - ✅ Understand the fundamentals of AI Agents
@@ -58,29 +26,34 @@ By the end of this unit, you will:
 - ✅ Build and deploy your first agent
 - ✅ Earn your Certificate of Fundamentals of Agents
 
-## 🏆 Certification: Fundamentals of Agents 
+## 🏆 Certification: Fundamentals of Agents
 Complete the unit and pass the final quiz to earn your:
 ![Certificate of Fundamentals of Agents](./Ai%20agent%20certificate.jpg)
 
+### 📌 Quick Links
+- [First Agent Demo](https://huggingface.co/spaces/kishan-patel-dev/First_agent_template)
 
-## 📝 Unit Structure
-```
-Unit 1: Introduction to Agents
-├── Introduction
-│   ├── What is an Agent?
-│   └── Quick Quiz 1
-├── Understanding LLMs
-│   ├── What are LLMs?
-│   ├── Messages and Special Tokens
-│   ├── What are Tools?
-│   └── Quick Quiz 2
-├── Agent Workflow
-│   ├── Thought-Action-Observation Cycle
-│   ├── Thought and ReAct Approach
-│   ├── Actions and Environment
-│   └── Observation and Adaptation
-├── Building Your First Agent
-│   ├── Dummy Agent Library
-│   └── smolagents Implementation
-└── Unit 1 Final Quiz
-```
+## 🎓 Learning
+
+- [x] Understand the fundamentals of AI Agents
+- [x] Learn how LLMs power agent reasoning
+- [x] Explore the Thought-Action-Observation cycle
+- [x] Integrate and build custom tools
+- [x] Build and deploy your first agent
+- [x] Earn your Fundamentals of Agents certificate
+
+## 📚 Additional Resources
+
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course)
+- [The ReAct Paper](https://arxiv.org/abs/2210.03629)
+- [smolagents Documentation](https://github.com/smol-ai/smolagents)
+- [Hugging Face Spaces Guide](https://huggingface.co/docs/hub/spaces)
+- [Python Documentation](https://docs.python.org/3/)
+
+## 📝 Notes
+
+- Start with the agent fundamentals and progress through the learning path
+- Practice by building and deploying your own agent
+- Use quizzes to check your understanding
+- Refer to the additional resources for deeper dives
+- Earning the certificate demonstrates your foundational knowledge in AI Agents
